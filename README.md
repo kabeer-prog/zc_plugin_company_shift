@@ -46,4 +46,4 @@ Live URL: <br />
 9.  Check for conflicts before pushing : `git pull upstream dev` <br />
     If conflicts exist, please fix it before pushing
 10. Push changes : `git push origin my-feature-branch`
-11. Create a pull request to the `dev` branch. **Please not the main branch**
+11. Create a pull request to the `dev` branch. **Please do not touch the main branch**
